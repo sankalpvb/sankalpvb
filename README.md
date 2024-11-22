@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on REAL TIME CYBER PROJECTS
 - 📫 How to reach me sankalpbhosle9552@gmail.com E-Mail me and Say "Special" 
 - 😄 Pronouns: Sankalp
-- ⚡ Fun fact: Why are you Hear
+- ⚡ Fun fact: Why are you Here
 
 <!---
 sankalpvb/sankalpvb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
