@@ -1,0 +1,96 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
+
+#define MAX 5  // Maximum size of the stack
+
+// Stack structure
+struct Stack {
+    int items[MAX];
+    int top;
+};
+
+// Function to initialize the stack
+void initStack(struct Stack *stack) {
+    stack->top = -1;
+}
+
+// Check if the stack is full
+bool isFull(struct Stack *stack) {
+    return stack->top == MAX - 1;
+}
+
+// Check if the stack is empty
+bool isEmpty(struct Stack *stack) {
+    return stack->top == -1;
+}
+
+// Push operation
+void push(struct Stack *stack, int value) {
+    if (isFull(stack)) {
+        printf("Stack Overflow! Cannot push %d\n", value);
+    } elses {
+        stack->items[++stack->top] = value;
+        printf("Pushed %d onto the stack\n", value);
+    }
+}
+
+// Pop operation
+int pop(struct Stack *stack) {
+    if (isEmpty(stack)) {
+        printf("Stack Underflow! Stack is empty.\n");
+        return -1;  // Return -1 if the stack is empty
+    } else {
+        int poppedValue = stack->items[stack->top--];
+        printf("Popped %d from the stack\n", poppedValue);
+        return poppedValue;
+    }
+}
+
+// Peek operation (view the top element without removing it)
+int peek(struct Stack *stack) {
+    if (isEmpty(stack)) {
+        printf("Stack is empty.\n");
+        return -1;
+    } else {
+        return stack->items[stack->top];
+    }
+}
+
+// Display the current stack elements
+void displayStack(struct Stack *stack) {
+    if (isEmpty(stack)) {
+        printf("Stack is empty.\n");
+    } else {
+        printf("Stack contents: ");
+        for (int i = 0; i <= stack->top; i++) {
+            printf("%d ", stack->items[i]);
+        }
+        printf("\n");
+    }
+}
+
+int main() {
+    struct Stack stack;
+    initStack(&stack);  // Initialize the stack
+    
+    // Test the stack operations
+    push(&stack, 10);
+    push(&stack, 20);
+    push(&stack, 30);
+    push(&stack, 40);
+    push(&stack, 50);
+    push(&stack, 60);  // This will cause a stack overflow
+    
+    displayStack(&stack);
+    
+    pop(&stack);
+    pop(&stack);
+    
+    displayStack(&stack);
+    
+    printf("Top element is %d\n", peek(&stack));  // Peek at the top element
+    
+    return 0;
+  }
+}
