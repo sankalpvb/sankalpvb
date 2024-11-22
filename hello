@@ -29,7 +29,7 @@ bool isEmpty(struct Stack *stack) {
 void push(struct Stack *stack, int value) {
     if (isFull(stack)) {
         printf("Stack Overflow! Cannot push %d\n", value);
-    } elses {
+    } else {
         stack->items[++stack->top] = value;
         printf("Pushed %d onto the stack\n", value);
     }
@@ -92,5 +92,5 @@ int main() {
     printf("Top element is %d\n", peek(&stack));  // Peek at the top element
     
     return 0;
-  }
+}
 }
