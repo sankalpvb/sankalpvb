@@ -1,15 +1,35 @@
 # 👋 Hi, I'm Sankalp  
 
-💻 Developer | 🔐 Security Enthusiast | 🚀 Builder of tools that break & fix  
+I’m a developer and security enthusiast who loves building tools, automating workflows, and exploring the art of penetration testing.  
+Curious by nature, I enjoy breaking things to understand them and then fixing them smarter.  
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/sankalpvb.png)  
+---
+
+## 🛠️ Skills  
+
+### 💻 Programming  
+- Python · JavaScript · Bash · Go  
+
+### 🔐 Cybersecurity  
+- Penetration Testing (Web, Network, Android)  
+- Security Automation & Tool Development  
+- Vulnerability Assessment & Exploitation  
+- Capture the Flag (CTF) Challenges  
+
+### ⚙️ Other  
+- Linux · Git · Networking Fundamentals  
+- Research & Documentation  
+- Problem Solving & Critical Thinking  
 
 ---
 
 ## 🚀 Projects  
-- ⭐ [ReconMaster](https://github.com/sankalpvb/ReconMaster)  
+- **ReconMaster** → Web-based reconnaissance framework  
+- **Other Tools** → Scripts & experiments on [my repositories](https://github.com/sankalpvb?tab=repositories)  
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sankalpvb&show_icons=true&theme=radical)  
+## 📫 Connect  
+- GitHub: [@sankalpvb](https://github.com/sankalpvb)  
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/your-profile/)  
+- Twitter: [Your Handle](https://twitter.com/your-handle)  
