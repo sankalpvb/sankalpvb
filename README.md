@@ -4,20 +4,12 @@
 
 I enjoy building security tools, automating workflows, and exploring penetration testing.  
 Always curious, always learning.  
-
----
-
 ## 🛠️ Skills  
 - Python · JavaScript · Bash · Go  
 - Security automation · Web app security · Pentesting  
-
----
-
 ## 🚀 Projects  
 - ⭐ [ReconMaster](https://github.com/sankalpvb/ReconMaster) → Web-based reconnaissance framework
 - - 📂 [More Projects](https://github.com/sankalpvb?tab=repositories) → Tools, scripts & experiments  
-
----
 ## 📫 Connect  
 - GitHub: [@sankalpvb](https://github.com/sankalpvb)  
 - LinkedIn: [Your Profile](https://www.linkedin.com/in/your-profile/)  
