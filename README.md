@@ -14,15 +14,14 @@ Always curious, always learning.
 ---
 
 ## 🚀 Projects  
-- ⭐ [ReconMaster](https://github.com/sankalpvb/ReconMaster) → Web-based reconnaissance framework  
-- 📂 [More Projects](https://github.com/sankalpvb?tab=repositories) → Tools, scripts & experiments  
+- ⭐ [ReconMaster](https://github.com/sankalpvb/ReconMaster) → Web-based reconnaissance framework
+- - 📂 [More Projects](https://github.com/sankalpvb?tab=repositories) → Tools, scripts & experiments  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sankalpvb&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpvb&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sankalpvb&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpvb&layout=compact&theme=radical)  
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sankalpvb&theme=radical&margin-w=10&margin-h=10)  
 
