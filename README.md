@@ -18,18 +18,14 @@ Always curious, always learning.
 - - 📂 [More Projects](https://github.com/sankalpvb?tab=repositories) → Tools, scripts & experiments  
 
 ---
+## 📫 Connect  
+- GitHub: [@sankalpvb](https://github.com/sankalpvb)  
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/your-profile/)  
+- Twitter: [Your Handle](https://twitter.com/your-handle)  
 
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sankalpvb&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpvb&layout=compact&theme=radical)  
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sankalpvb&theme=radical&margin-w=10&margin-h=10)  
-
----
-
-## 📫 Connect  
-- GitHub: [@sankalpvb](https://github.com/sankalpvb)  
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/your-profile/)  
-- Twitter: [Your Handle](https://twitter.com/your-handle)  
-
 ![Profile Views](https://komarev.com/ghpvc/?username=sankalpvb&color=blueviolet&style=flat-square)  
