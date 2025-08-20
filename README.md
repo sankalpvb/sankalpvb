@@ -1,35 +1,17 @@
 # 👋 Hi, I'm Sankalp  
 
-I’m a developer and security enthusiast who loves building tools, automating workflows, and exploring the art of penetration testing.  
-Curious by nature, I enjoy breaking things to understand them and then fixing them smarter.  
-
----
+Developer & Security Enthusiast | Builder of tools that break & fix | CEH Qualified (117/125)  
 
 ## 🛠️ Skills  
-
-### 💻 Programming  
-- Python · JavaScript · Bash · Go  
-
-### 🔐 Cybersecurity  
-- Penetration Testing (Web, Network, Android)  
-- Security Automation & Tool Development  
-- Vulnerability Assessment & Exploitation  
-- Capture the Flag (CTF) Challenges  
-
-### ⚙️ Other  
-- Linux · Git · Networking Fundamentals  
-- Research & Documentation  
-- Problem Solving & Critical Thinking  
-
----
+- **Programming:** C, C++, Java, Python, .NET  
+- **Cybersecurity:** Penetration Testing (Web, Network, Android), Security Automation, Exploit Development, Vulnerability Assessment  
+- **Other:** Linux, Git, Networking, Research & Documentation  
 
 ## 🚀 Projects  
-- **ReconMaster** → Web-based reconnaissance framework  
-- **Other Tools** → Scripts & experiments on [my repositories](https://github.com/sankalpvb?tab=repositories)  
-
----
+- [ReconMaster](https://github.com/sankalpvb/ReconMaster) – Web-based reconnaissance framework  
+- [BruteMaster](https://github.com/sankalpvb/BruteMaster) – Brute-force attack automation tool  
 
 ## 📫 Connect  
-- GitHub: [@sankalpvb](https://github.com/sankalpvb)  
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/your-profile/)  
-- Twitter: [Your Handle](https://twitter.com/your-handle)  
+- 🌐 Portfolio: [sankalpvb.github.io/CrazyCat.github.io](https://sankalpvb.github.io/CrazyCat.github.io/)  
+- 💼 LinkedIn: [linkedin.com/in/sankalpvb](https://www.linkedin.com/in/sankalpvb/)  
+- 🐙 GitHub: [@sankalpvb](https://github.com/sankalpvb)  
